@@ -7,7 +7,10 @@ Install the Dependencies
  - Metamask: https://metamask.io/
  
  Clone the project and unzip
- 
+ https://github.com/singlashashwat/blockchainVoting.git
+ Unzip folder and take out all files from zip folder
+ - $ cd election
+ - $ npm install
  
  Start Ganache
  - Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance.
